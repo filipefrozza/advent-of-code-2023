@@ -1,0 +1,1 @@
+{"version":1,"defects":{"tests\\PuzzleSolverTest::testPuzzle_puzzleShouldPassWithExpectedResult with data set \"case1\"":3},"times":{"tests\\PuzzleSolverTest::testPuzzle_puzzleShouldPassWithExpectedResult with data set \"case1\"":0.009}}

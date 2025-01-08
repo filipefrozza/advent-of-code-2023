@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="highlightLevel" value="WARNING" />
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/day1/vendor/phpstan/phpdoc-parser" />
+      <path value="$PROJECT_DIR$/day1/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/day1/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/day1/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/day1/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/day1/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/day1/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/day1/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/day1/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/day1/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/day1/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/day1/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/day1/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/day1/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/day1/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/day1/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/day1/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/day1/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/day1/vendor/composer" />
+      <path value="$PROJECT_DIR$/day1/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/day1/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/day1/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/day1/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/day1/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/day1/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/day1/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/day1/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/day1/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/day1/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/day1/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/day1/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/day1/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/day1/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/day1/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/day1/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/day1/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/day2/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/day2/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/day2/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/day2/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/day2/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/day2/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/day2/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/day2/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/day2/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/day2/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/day2/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/day2/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/day2/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/day2/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/day2/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/day2/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/day2/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/day2/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/day2/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/day2/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/day2/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/day2/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/day2/vendor/phpstan/phpdoc-parser" />
+      <path value="$PROJECT_DIR$/day2/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/day2/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/day2/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/day2/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/day2/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/day2/vendor/composer" />
+      <path value="$PROJECT_DIR$/day2/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/day2/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/day2/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/day2/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/day2/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/day2/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/day2/vendor/sebastian/resource-operations" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.1" />
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/day2/vendor/autoload.php" />
+      <PhpUnitSettings bootstrap_file_path="$PROJECT_DIR$/day1/src/autoload.php" custom_loader_path="$PROJECT_DIR$/../../xampp7.4/htdocs/crud-auth-laravel-react/laravel/vendor/bin/phpunit" phpunit_phar_path="" use_bootstrap_file="true" />
+    </phpunit_settings>
+  </component>
+  <component name="PsalmOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+</project>
